@@ -103,3 +103,40 @@ section.produtos ul li p {
 section.produtos ul li h3 {
   color: #151875;
 }
+
+section.convite {
+  padding: 3vw 10vw;
+  background: url(../src/images/back-section-update.png);
+  background-position: center;
+  text-align: center;
+}
+
+section.convite h2 {
+  font-size: 2rem;
+  color: #151875;
+  font-weight: bold;
+  margin: 20px;
+}
+
+section.convite p button {
+  background-color: #fb2e86;
+  padding: 5px 10px;
+  font-size: 1.2rem;
+  color: white;
+  border-radius: 2px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 3vw 10vw;
+}
+
+footer div h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+footer div h1 {
+  font-size: 2rem;
+}
